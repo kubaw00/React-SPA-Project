@@ -1,0 +1,18 @@
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top:20px
+}
+
+p{
+    margin: 20px 0;
+}
+
+small {
+    font-size: 0.7rem;
+    color: rgb(77, 77, 77);
+}
+
